@@ -19,13 +19,13 @@ background: linear-gradient(45deg, #FFFFFF0F, #FFFFFF77, #FFFFFFF0, #FFFFFF77);
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________;
 name: test24
-background: linear-gradient(45deg,#6bb3ff,#aa00aa, #ff6b6b, #f7d94c, #6bff6b, #6bb3ff,#aa00aa, #ff6b6b, #f7d94c, #6bff6b, #6bb3ff,#aa00aa, #ff6b6b, #f7d94c, #6bff6b, #6bb3ff,#aa00aa, #ff6b6b, #f7d94c, #6bff6b, #6bb3ff,#aa00aa, #ff6b6b, #f7d94c, #6bff6b, #6bb3ff,#aa00aa, #ff6b6b, #f7d94c, #6bff6b);
-
+background: linear-gradient(45deg,#6bb3ff,#aa00aa, #ff6b6b, #f7d94c, #6bff6b, #6bb3ff,#aa00aa, #ff6b6b, #f7d94c, #6bff6b, #6bb3ff,#aa00aa, #ff6b6b, #f7d94c, #6bff6b, #6bb3ff,#aa00aa, #ff6b6b, #f7d94c, #6bff6b,  
+#6bb3ff,#aa00aa, #ff6b6b, #f7d94c, #6bff6b, #6bb3ff,#aa00aa, #ff6b6b, #f7d94c, #6bff6b);
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________;
 name: test26
-background: linear-gradient(45deg,#0000FF,#FF00FF, #FF0000, #FFFF00, #00FF00, #0000FF,#FF00FF, #FF0000, #FFFF00, #00FF00, #0000FF,#FF00FF, #FF0000, #FFFF00, #00FF00, #0000FF,#FF00FF, #FF0000, #FFFF00, #00FF00, #0000FF,#FF00FF, #FF0000, #FFFF00, #00FF00);
-
+background: linear-gradient(45deg,#0000FF,#FF00FF, #FF0000, #FFFF00, #00FF00, #0000FF,#FF00FF, #FF0000, #FFFF00, #00FF00, #0000FF,#FF00FF, #FF0000, #FFFF00, #00FF00, #0000FF,#FF00FF, #FF0000, #FFFF00, #00FF00,  
+#0000FF,#FF00FF, #FF0000, #FFFF00, #00FF00);
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________;
 name: test28
